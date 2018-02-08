@@ -11,9 +11,6 @@ autocmd!
 if has('syntax') && (&t_Co > 2)
 	syntax on
   set background=dark
-"  colorscheme solarized
-"  let base16colorspace=256
-"  colorscheme base16-railscasts
   colorscheme base16-gruvbox
 endif
 

@@ -32,7 +32,7 @@ let s:gui0F = "928374"
 " Terminal color definitions
 let s:cterm00 = "00"
 let s:cterm03 = "08"
-let s:cterm05 = "07"
+let s:cterm05 = "15"
 let s:cterm07 = "15"
 let s:cterm08 = "01"
 let s:cterm0A = "03"
